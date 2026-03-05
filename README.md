@@ -22,23 +22,27 @@ You paste a link and it walks you through everything: what the skill does, wheth
 
 | | Step | What happens |
 |---|---|---|
-| 1️⃣ | **Understand** | Fetches the skill and gives you a plain-English summary. But here's the key: it doesn't just tell you *what* the skill does. It tells you if it matters to *you*, based on your workflow and what you already have |
-| 2️⃣ | **Compare & Upgrade** | This one changed everything for me 🔥 If you already have something similar, it compares them side by side and shows you what to steal from the new one to make yours better. Overlap isn't a blocker, it's an upgrade opportunity |
-| 3️⃣ | **Trust Check** | Especially if you're on a work laptop! Does this skill run shell commands? Touch sensitive files? You get a simple green/yellow/red rating. No guessing |
+| 1️⃣ | **Understand** | Your AI agent fetches the skill based on the URL you provided and then gives you a plain-English summary. But here's the key: it doesn't just tell you *what* the skill does. It tells you if it matters to *you*, based on your workflow and what you already have |
+| 2️⃣ | **Compare & Upgrade** | This one changed everything for me 🔥 If you already have something similar, it compares them side by side and shows you what to steal from the new one to make yours better. Overlap isn't a blocker, it's an upskill opportunity (pun-intended) |
+| 3️⃣ | **Trust Check** | Especially if you're on a work laptop. Does this skill run shell commands? Touch sensitive files? You get a simple green/yellow/red rating. No guessing |
 | 4️⃣ | **Decide & Act** | Scorecard + clear paths: install it all, cherry-pick the good stuff, or skip guilt-free |
 | 5️⃣ | **Test Drive** | You immediately run the skill on something real. A 5-minute exercise, not a full project. This is what keeps skills from becoming shelfware |
 
 ## Why I built this
 
-So... **most of the value came from Step 2, not Step 4.**
+When I set out to build this skill, I expected it to help me decide what to install. Instead, it mostly helped me sharpen what I already had. The overlapping skills were the most valuable! Not because I installed them, but because I was able to learn from them.
 
-I expected this to help me decide what to install. Instead, it mostly helped me sharpen what I already had. The overlapping skills were the most valuable! Not because I installed them, but because I learned from them.
+👉 Real example: 
 
-👉 Real example: I found a PM repo with a meeting notes skill. I already had my own. Instead of installing a second one, the comparison showed me 3 features theirs did better (tracking participants, logging disagreements, auto-saving to a file). So I just bolted those onto mine. One skill, now better. Zero clutter.
+I found a PM repo with a meeting notes skill. I already had my own. Instead of installing a second one, the comparison showed me 3 features theirs did better (i.e., tracking participants, logging disagreements, auto-saving to a file). 
 
-💡 That's the mentality. Don't collect more tools. Study what others build, steal what works, sharpen what you already have. 
+So I just bolted those onto mine. 
 
-Kaizen for your AI toolkit 🌸
+One skill, now better. Zero clutter.
+
+Mindset shift: Don't collect 1,000+ skills. Aim for fewer skills, but make each of them 100x more valuable. 
+
+Study what others build, borrow what works, sharpen what you already have. It's all about "Kaizen" 🧘
 
 ## Install
 
