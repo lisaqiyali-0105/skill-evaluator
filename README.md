@@ -12,7 +12,9 @@ Honest answer? I had no idea.
 
 So I built a skill that evaluates other skills before I install them. 
 
-You paste a link and it walks you through everything: what the skill does, whether it's relevant to you, whether it's safe, and whether it's actually worth keeping. **No code, no technical knowledge.** Just follow along.
+You paste a link and it walks you through everything: what the skill does, whether it's relevant to you, whether it's safe, and whether it's actually worth keeping. 
+
+**No code, no technical knowledge.** Just follow along.
 
 ## How it works
 
