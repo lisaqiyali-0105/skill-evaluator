@@ -1,4 +1,4 @@
-# do-i-need-this: Should I Install This? 🤔
+# do-i-need-this: Should I Install This Skill? 🤔
 
 I have 44 skills in my Claude Code setup. Meeting notes, content drafts, travel perks, PM frameworks. I built most of them myself.
 
