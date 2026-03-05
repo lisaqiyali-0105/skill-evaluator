@@ -1,4 +1,4 @@
-# /do-i-need-this 🤔
+# /do-i-need-this 🤔 aka. Should I Install This Skill?
 
 There are over 400,000 AI agent skills floating around the internet right now. 😵‍💫
 
